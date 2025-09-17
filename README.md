@@ -1,3 +1,5 @@
+# 📘 Exercícios – Testes Numéricos com Jest (Cenário: Conta Bancária)
+
 ### Exercício 1: Depósito simples
 Verifique se, ao depositar **100** em uma conta com saldo inicial **0**, o saldo final é **100**.  
 👉 Usar `toBe`.
